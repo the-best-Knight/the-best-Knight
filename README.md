@@ -19,7 +19,7 @@ IT infrastructure, networking, and security. I run a self-hosted homelab and bui
 | Area | What I use |
 | --- | --- |
 | Infrastructure | Proxmox VE, Docker and Compose, Portainer, Dell PowerEdge / iDRAC, Linux |
-| Networking | UniFi, Tailscale, Cloudflare Tunnel, Pi-hole + Unbound, subnetting / VLSM, Cisco IOS, Dell OS10, Junos |
+| Networking | UniFi, Tailscale, Cloudflare Tunnel, Pi-hole + Unbound, subnetting / VLSM, Cisco IOS, Dell OS10 |
 | Security | CompTIA Security+, zero-trust access, CSP and security headers, log redaction |
 | Scripting and web | PowerShell, Python, JavaScript, Astro, Tailwind CSS, Git |
 | Monitoring | Uptime Kuma, Home Assistant |
